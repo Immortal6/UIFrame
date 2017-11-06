@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[<span style="color:#32CD32"><b>[info]com.first.uiframework.DriverFactory: 杀死chrome浏览器进程</b></span><br/>]]>
+    </line>
+    <line>
+      <![CDATA[<span style="color:#32CD32"><b>[info]com.first.uiframework.DriverUtils: 打开网址:http://localhost/zentaopms/www/index.php</b></span><br/>]]>
+    </line>
+    <line>
+      <![CDATA[<span style="color:#32CD32"><b>[info]com.first.uiframework.DriverUtils: 在元素：用户输入框输入admin</b></span><br/>]]>
+    </line>
+    <line>
+      <![CDATA[<span style="color:#32CD32"><b>[info]com.first.uiframework.DriverUtils: 在元素：密码输入框输入123</b></span><br/>]]>
+    </line>
+    <line>
+      <![CDATA[<span style="color:#32CD32"><b>[info]com.first.uiframework.DriverUtils: 点击元素 登录按钮</b></span><br/>]]>
+    </line>
+    <line>
+      <![CDATA[<span style="color:#32CD32"><b>[info]com.first.uiframework.DriverFactory: 杀死chrome浏览器进程</b></span><br/>]]>
+    </line>
+    <line>
+      <![CDATA[<span style="color:#32CD32"><b>[info]com.first.uiframework.DriverUtils: 打开网址:http://localhost/zentaopms/www/index.php</b></span><br/>]]>
+    </line>
+    <line>
+      <![CDATA[<span style="color:#32CD32"><b>[info]com.first.uiframework.DriverUtils: 在元素：用户输入框输入admin</b></span><br/>]]>
+    </line>
+    <line>
+      <![CDATA[<span style="color:#32CD32"><b>[info]com.first.uiframework.DriverUtils: 在元素：密码输入框输入lft123456</b></span><br/>]]>
+    </line>
+    <line>
+      <![CDATA[<span style="color:#32CD32"><b>[info]com.first.uiframework.DriverUtils: 点击元素 登录按钮</b></span><br/>]]>
+    </line>
+    <line>
+      <![CDATA[<span style="color:#32CD32"><b>[info]com.first.uiframework.DriverUtils: 获取元素：用户菜单文本值：admin</b></span><br/>]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23914" started-at="2017-10-25T09:09:39Z" finished-at="2017-10-25T09:10:03Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23914" started-at="2017-10-25T09:09:39Z" finished-at="2017-10-25T09:10:03Z">
+      <class name="com.first.testcases.LoginTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.first.testcases.LoginTest@2a266d09]" name="beforeMethod" is-config="true" duration-ms="4954" started-at="2017-10-25T17:09:39Z" finished-at="2017-10-25T17:09:44Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<span style="color:#32CD32"><b>[info]com.first.uiframework.DriverFactory: 杀死chrome浏览器进程</b></span><br/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="failLoginTest1()[pri:0, instance:com.first.testcases.LoginTest@2a266d09]" name="failLoginTest1" duration-ms="6218" started-at="2017-10-25T17:09:44Z" finished-at="2017-10-25T17:09:50Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<span style="color:#32CD32"><b>[info]com.first.uiframework.DriverUtils: 打开网址:http://localhost/zentaopms/www/index.php</b></span><br/>]]>
+            </line>
+            <line>
+              <![CDATA[<span style="color:#32CD32"><b>[info]com.first.uiframework.DriverUtils: 在元素：用户输入框输入admin</b></span><br/>]]>
+            </line>
+            <line>
+              <![CDATA[<span style="color:#32CD32"><b>[info]com.first.uiframework.DriverUtils: 在元素：密码输入框输入123</b></span><br/>]]>
+            </line>
+            <line>
+              <![CDATA[<span style="color:#32CD32"><b>[info]com.first.uiframework.DriverUtils: 点击元素 登录按钮</b></span><br/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- failLoginTest1 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.first.testcases.LoginTest@2a266d09]" name="afterMethod" is-config="true" duration-ms="3085" started-at="2017-10-25T17:09:50Z" finished-at="2017-10-25T17:09:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.first.testcases.LoginTest@2a266d09]" name="beforeMethod" is-config="true" duration-ms="2015" started-at="2017-10-25T17:09:54Z" finished-at="2017-10-25T17:09:56Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<span style="color:#32CD32"><b>[info]com.first.uiframework.DriverFactory: 杀死chrome浏览器进程</b></span><br/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="loginTest1()[pri:0, instance:com.first.testcases.LoginTest@2a266d09]" name="loginTest1" duration-ms="4518" started-at="2017-10-25T17:09:56Z" finished-at="2017-10-25T17:10:00Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<span style="color:#32CD32"><b>[info]com.first.uiframework.DriverUtils: 打开网址:http://localhost/zentaopms/www/index.php</b></span><br/>]]>
+            </line>
+            <line>
+              <![CDATA[<span style="color:#32CD32"><b>[info]com.first.uiframework.DriverUtils: 在元素：用户输入框输入admin</b></span><br/>]]>
+            </line>
+            <line>
+              <![CDATA[<span style="color:#32CD32"><b>[info]com.first.uiframework.DriverUtils: 在元素：密码输入框输入lft123456</b></span><br/>]]>
+            </line>
+            <line>
+              <![CDATA[<span style="color:#32CD32"><b>[info]com.first.uiframework.DriverUtils: 点击元素 登录按钮</b></span><br/>]]>
+            </line>
+            <line>
+              <![CDATA[<span style="color:#32CD32"><b>[info]com.first.uiframework.DriverUtils: 获取元素：用户菜单文本值：admin</b></span><br/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginTest1 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.first.testcases.LoginTest@2a266d09]" name="afterMethod" is-config="true" duration-ms="3090" started-at="2017-10-25T17:10:00Z" finished-at="2017-10-25T17:10:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.first.testcases.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

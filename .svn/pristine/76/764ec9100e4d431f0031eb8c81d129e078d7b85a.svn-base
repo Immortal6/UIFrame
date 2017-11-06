@@ -1,0 +1,13 @@
+<h2>Reporter output</h2><table><tr><td><span style="color:#32CD32"><b>[info]com.first.uiframework.DriverFactory: 杀死chrome浏览器进程</b></span><br/></td></tr>
+<tr><td><span style="color:#32CD32"><b>[info]com.first.uiframework.DriverUtils: 打开网址:http://localhost/zentaopms/www/index.php</b></span><br/></td></tr>
+<tr><td><span style="color:#32CD32"><b>[info]com.first.uiframework.DriverUtils: 在元素：用户输入框输入admin</b></span><br/></td></tr>
+<tr><td><span style="color:#32CD32"><b>[info]com.first.uiframework.DriverUtils: 在元素：密码输入框输入123456</b></span><br/></td></tr>
+<tr><td><span style="color:#32CD32"><b>[info]com.first.uiframework.DriverUtils: 点击元素 登录按钮</b></span><br/></td></tr>
+<tr><td><span style="color:#32CD32"><b>[info]com.first.uiframework.DriverFactory: 杀死chrome浏览器进程</b></span><br/></td></tr>
+<tr><td><span style="color:#32CD32"><b>[info]com.first.uiframework.DriverUtils: 打开网址:http://localhost/zentaopms/www/index.php</b></span><br/></td></tr>
+<tr><td><span style="color:#32CD32"><b>[info]com.first.uiframework.DriverUtils: 在元素：用户输入框输入admin</b></span><br/></td></tr>
+<tr><td><span style="color:#32CD32"><b>[info]com.first.uiframework.DriverUtils: 在元素：密码输入框输入lft123456</b></span><br/></td></tr>
+<tr><td><span style="color:#32CD32"><b>[info]com.first.uiframework.DriverUtils: 点击元素 登录按钮</b></span><br/></td></tr>
+<tr><td><span style="color:#32CD32"><b>[info]com.first.uiframework.DriverUtils: 元素:用户菜单识别异常</b></span><br/></td></tr>
+<tr><td><span style="color:#32CD32"><b>[info]com.first.uiframework.DriverUtils: 截图成功，图片保存路径为：D:\workspace\UIFrame\screenshot\findElementErrorImg_2017_10_25_16_10_06.png</b></span><br/></td></tr>
+</table>

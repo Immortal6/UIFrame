@@ -1,0 +1,10 @@
+#URL地址
+url = http://localhost/zentaopms/www/index.php
+#ChromeDriver路径
+chromeDriver = \\Driver\\chromedriver.exe
+#IeDriver路径
+ieDriver = \\Driver\\InternetExplorerdriver.exe
+#FireFox路径
+firefoxDriver = \\Driver\\geckodriver.exe
+#截图位置
+shotPath = screenshot

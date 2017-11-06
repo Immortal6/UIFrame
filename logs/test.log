@@ -1,0 +1,11 @@
+2017-10-25 17:09:40.183 INFO  com.first.utils.Log 22 info - com.first.uiframework.DriverFactory: 杀死chrome浏览器进程
+2017-10-25 17:09:47.095 INFO  com.first.utils.Log 22 info - com.first.uiframework.DriverUtils: 打开网址:http://localhost/zentaopms/www/index.php
+2017-10-25 17:09:47.247 INFO  com.first.utils.Log 22 info - com.first.uiframework.DriverUtils: 在元素：用户输入框输入admin
+2017-10-25 17:09:47.391 INFO  com.first.utils.Log 22 info - com.first.uiframework.DriverUtils: 在元素：密码输入框输入123
+2017-10-25 17:09:47.915 INFO  com.first.utils.Log 22 info - com.first.uiframework.DriverUtils: 点击元素 登录按钮
+2017-10-25 17:09:54.027 INFO  com.first.utils.Log 22 info - com.first.uiframework.DriverFactory: 杀死chrome浏览器进程
+2017-10-25 17:09:58.561 INFO  com.first.utils.Log 22 info - com.first.uiframework.DriverUtils: 打开网址:http://localhost/zentaopms/www/index.php
+2017-10-25 17:09:58.685 INFO  com.first.utils.Log 22 info - com.first.uiframework.DriverUtils: 在元素：用户输入框输入admin
+2017-10-25 17:09:58.820 INFO  com.first.utils.Log 22 info - com.first.uiframework.DriverUtils: 在元素：密码输入框输入lft123456
+2017-10-25 17:10:00.131 INFO  com.first.utils.Log 22 info - com.first.uiframework.DriverUtils: 点击元素 登录按钮
+2017-10-25 17:10:00.525 INFO  com.first.utils.Log 22 info - com.first.uiframework.DriverUtils: 获取元素：用户菜单文本值：admin
